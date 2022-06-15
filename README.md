@@ -1,10 +1,10 @@
-# Ella and Alexxy Shell
+# tesfish and teddy Shell
 
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
 ### Description
 
-Ella and Alexxy Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+tesfish and teddy Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 
 ### Installation
 
@@ -44,4 +44,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Ella](https://github.com/EllaLawrie) and [Alexxy](https://github.com/Lexxyla).
+All code written by [tesfishm](https://github.com/tesfishm) and [teddy](https://github.com/teddy).
